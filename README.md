@@ -8,3 +8,7 @@ PCA implemented model for face recognition
 <h><b>Compilation</b></h>
 <p>Training: py main.py</p>
 <p>Comparing: py face_detect_UI.py</p>
+
+# DATA SOURCE
+<p>https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset</p>
+
